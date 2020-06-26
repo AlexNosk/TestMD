@@ -1,2 +1,11 @@
-## TestMD
-## test1
+Aspose.Words is a powerful on-premise class library that can be used for numerous document processing tasks. It enables developers to enhance their own applications with features such as generating, modifying, converting, rendering, and printing documents, without relying on third-party applications, for example, Microsoft Word, or automation.
+
+The following are some popular features of Aspose.Words for .NET:
+
+- Aspose.Words can be used to develop applications for a vast range of operating systems such as Windows or Linux & Mac OS and [platforms](https://docs.aspose.com/display/wordsnet/Feature+Overview#FeatureOverview-SupportedPlatforms) such as [Windows Azure](https://docs.aspose.com/display/wordsnet/Windows+Azure+Platform), Xamarin.Android, or Xamarin.iOS & Xamarin.Mac.
+- Comprehensive [document import and export](https://docs.aspose.com/display/wordsnet/Loading%2C+Saving+and+Converting) with [35+ supported file formats](https://docs.aspose.com/display/wordsnet/Supported+Document+Formats). This allows users to [convert documents](https://docs.aspose.com/display/wordsnet/Converting+a+Document) from [one popular format](https://apireference.aspose.com/words/net/aspose.words/loadformat) to [another](https://apireference.aspose.com/words/net/aspose.words/saveformat), for example, from DOCX into PDF or Markdown, or from PDF into various Word formats.
+- Programmatic access to the formatting properties of all document elements. For example, using Aspose.Words users can [split a document](https://docs.aspose.com/display/wordsnet/Split+a+Document) into parts or [compare two documents](https://docs.aspose.com/display/wordsnet/Compare+Documents).
+- [High fidelity rendering](https://docs.aspose.com/display/wordsnet/Rendering) of document pages. For example, if it is needed to render a document as in Microsoft Word, Aspose.Words will successfully cope with this task.
+- Ability to [print a document](https://docs.aspose.com/display/wordsnet/Print+a+Document+Programmatically+or+Using+Dialogs) programmatically using Aspose.Words and the XpsPrint API or via dialog boxes.
+- [Generate reports with Mail Merge](https://docs.aspose.com/display/wordsnet/Mail+Merge+and+Reporting), which allows filling in merge templates with data from various sources to create merged documents.
+- [LINQ Reporting Engine](https://docs.aspose.com/display/wordsnet/LINQ+Reporting+Engine) to fetch data from databases, XML, JSON, OData, external documents, and much more.
