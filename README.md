@@ -10,7 +10,7 @@ The following are some popular features of Aspose.Words for .NET:
 - [LINQ Reporting Engine](https://docs.aspose.com/display/wordsnet/LINQ+Reporting+Engine) to fetch data from databases, XML, JSON, OData, external documents, and much more.
 
 Ready to give Aspose.Words for .NET a try?
-Simply run 'Install-Package Aspose.Words' from Package Manager Console in Visual Studio to fetch the NuGet package.
-If you already have Aspose.Words for .NET and want to upgrade the version, please run 'Update-Package Aspose.Words' to get the latest version.
+Simply run `Install-Package Aspose.Words` from Package Manager Console in Visual Studio to fetch the NuGet package.
+If you already have Aspose.Words for .NET and want to upgrade the version, please run `Update-Package Aspose.Words` to get the latest version.
 
 [Product Page](https://products.aspose.com/words/net) | [Docs](https://docs.aspose.com/display/wordsnet/Home) | [Demos](https://products.aspose.app/words/family) | [API Reference](https://apireference.aspose.com/words/net) | [Examples](https://github.com/aspose-words/Aspose.Words-for-.NET) | [Blog](https://blog.aspose.com/category/words/) | [Free Support](https://forum.aspose.com/c/words) | [Temporary License](https://purchase.aspose.com/temporary-license)
