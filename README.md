@@ -1,4 +1,4 @@
-Aspose.Words is a powerful on-premise class library that can be used for numerous document processing tasks. It enables developers to enhance their own applications with features such as generating, modifying, converting, rendering, and printing documents, without relying on third-party applications, for example, Microsoft Word, or automation.
+[Aspose.Words for .NET](https://products.aspose.com/words/net) is a powerful on-premise class library that can be used for numerous document processing tasks. It enables developers to enhance their own applications with features such as generating, modifying, converting, rendering, and printing documents, without relying on third-party applications, for example, Microsoft Word, or automation.
 
 ### Word API Features
 The following are some popular features of Aspose.Words for .NET:
@@ -58,7 +58,7 @@ doc.Save(dir + "output.docx");
 ```
 
 ### Using C# to Convert a Word Document to HTML
-Aspose.Words for .NET also allows you to convert Microsoft Word® formats to PDF, XPS, Markdown, HTML, JPEG, TIFF, and other file formats. Following snippet demonstrates the conversion from DOCX to HTML:
+Aspose.Words for .NET also allows you to convert Microsoft Word formats to PDF, XPS, Markdown, HTML, JPEG, TIFF, and other file formats. Following snippet demonstrates the conversion from DOCX to HTML:
 
 ```
 // Load the document from disc.
@@ -69,7 +69,7 @@ doc.Save(dir + "output.html");
 ```
 
 ### Using C# to Import PDF and Save as a DOCX File
-In addition, you can import a PDF document into your .NET application and export it as a DOCX format file without the need to install the Microsoft Word®:
+In addition, you can import a PDF document into your .NET application and export it as a DOCX format file without the need to install the Microsoft Word:
 
 ```
 // Load the PDF document from disc.
