@@ -51,7 +51,7 @@ You can run the following snippets in your environment to see how Aspose.Words w
 
 ## Using C# to Create a DOCX File from Scratch
 
-Aspose.Words for .NET allows you to create a new blank document and add content to this document.
+Aspose.Words for .NET allows you to create a new blank document and add content to this document:
 
 ```c#
 // Create a blank document.
